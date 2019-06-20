@@ -1,0 +1,45 @@
+body {
+     padding: 50px;
+     font: 14px;
+     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+ a {
+     color: #00B7FF;
+}
+ ul {
+     list-style-type: none;
+     padding-left: 10px;
+}
+ .authors {
+     text-align: center;
+}
+ .authors p img {
+     border-radius: 50%;
+     width: 50%;
+     height: 50%;
+}
+ .reg {
+     font-weight: bold;
+     color: #A61919;
+}
+ .item {
+     width: 62%;
+     padding-left: 20px;
+}
+ .title {
+     font-weight: bold;
+}
+ .img-url {
+     height: 180px;
+     width: 235px;
+}
+ table {
+     
+     font-size: 20px;
+}
+ .timer{
+     color: #777;
+     font-style: italic 
+}
+ 
+ table { width: 100%; }
